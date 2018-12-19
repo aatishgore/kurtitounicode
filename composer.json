@@ -1,0 +1,26 @@
+{
+    "name": "aatishgore/krutitounicode",
+    "description": "This library is used to convert hindi font kruti to unicode.",
+    "authors": [
+        {
+            "name": "Aatish Gore",
+            "email": "aatish15@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "laravelcollective/html": "^5.5"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "aatish\\krutitounicode\\k2uServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "aatish\\krutitounicode\\": "src/"
+        }
+    }
+}
