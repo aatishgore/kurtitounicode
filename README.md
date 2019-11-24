@@ -1,5 +1,5 @@
 # kurtitounicode
-This package converts the kurti hindi font to unicode code font
+This package converts the kurti hindi font to unicode code font.
 
 ## Usage
 - Install package
