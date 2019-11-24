@@ -5,7 +5,7 @@ This package converts the kurti hindi font to unicode code font.
 - Install package
 
 ```
-composer require aatishgore/kurtitounicode
+composer require aatishgore/krutitounicode
 ```
 
 ## Sample
